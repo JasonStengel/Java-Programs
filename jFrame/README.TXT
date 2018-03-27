@@ -1,0 +1,1 @@
+creates a jframe and prints to the user a random selection of lines and either filled or empty circles and rectangles
